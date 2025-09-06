@@ -56,12 +56,17 @@ For example:
 - [ ] etc 
 
 The last 4 questions are self-evaluation of alumni's growth since participating in the Tech-Moms program. Find the average of each column to know it's rating out of 5 stars. 
+[Q23 Confidence	4]
+[Q24 Pivot/Adapt	4]
+[Q25 Technical Skills	4]
+[Q26 Career Success	4]
 
 Evaluate the open-ended replies for themes that stand out. You could do a keyword search for "community" and pull out quotes that highlight the positive replies. Also see if you can find replies that include negative sentiments or constructive critizim. You will want to highlight both the positive and negative feedback to leadership. 
 
 #### Advanced Excel Skill: XLOOKUP
 
 We also want to know what % of applicants that were "Assigned Cohort" in the [Tech-Moms Application Data](https://docs.google.com/spreadsheets/d/1BhskpHGoHSl2fuXY3qjnqSpgI2imWB2Ng7OYP-pWslI/edit?usp=sharing) filled out a survey. Use the Contact ID column in each table to "join" the tables together and find out if the student completed the survey or not. Write down the tasks below you would need to do to find this out. 
+[100%]
 
 ### Step Four: Validate Your Data 
 
