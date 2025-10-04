@@ -53,9 +53,9 @@ Thanks for taking the time to complete this task — we're excited to see what y
 
 Before submitting, make sure you have:
 
-- [ ] Completed the video tutorial series
-- [ ] Created a functional dashboard with data cleaning
-- [ ] Used basic formulas (`SUM`, `AVERAGE`, `COUNT`)
-- [ ] Included simple charts or visualizations
-- [ ] Written a brief analysis summary
-- [ ] Emailed your work to `data@tech-moms.org`
+- [X] Completed the video tutorial series
+- [X] Created a functional dashboard with data cleaning
+- [X] Used basic formulas (`SUM`, `AVERAGE`, `COUNT`)
+- [X] Included simple charts or visualizations
+- [X] Written a brief analysis summary
+- [X] Emailed your work to `data@tech-moms.org`
